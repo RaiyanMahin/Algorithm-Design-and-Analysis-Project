@@ -48,6 +48,9 @@ The time complexity of this optimized binary search algorithm is O(log(logn)) on
 3. Specify the value to search for using `int value; cin >> value;`.
 4. The `solve()` function performs the optimized binary search.
 
+### FlowChart
+![FlowChart](https://github.com/RaiyanMahin/Algorithm-Design-and-Analysis-Project/blob/main/FlowChart%20of%20Algorithm.png?raw=true)
+
 ### Conclusion
 
 This algorithm offers improved average-case performance over traditional binary search algorithms. However, it's important to consider the characteristics of the input data and the specific use case to determine its suitability. Experimentation and profiling may be necessary to assess the algorithm's performance in different scenarios.
